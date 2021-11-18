@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8CE28B27-C1B9-4583-8837-4481EB52BFEE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fixer.IO.CcyCnvrtr.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fixer.IO.CcyCnvrtr" expanded="True">
+            <Node name="Fixer.IO.CcyCnvrtr.API" expanded="True" />
+            <Node name="Fixer.IO.CcyCnvrtr.ConsoleApp" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>fields.Any(x =&gt; x.</Value>
+          <Value>response.Content.ReadAsStringAsync()</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fixer.IO.CcyCnvrtr.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
